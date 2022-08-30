@@ -1,0 +1,2 @@
+# bypassuac-fodhelper
+fodhelper
